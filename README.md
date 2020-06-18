@@ -10,8 +10,7 @@ You can join my support server if you have any issues by clicking [this link](ht
 
 ## Information
 
-* Do NOT type `()` , `<>` or `[]` 
-* `(` and `)` mark Aliases \(other names the command will run with\)
+* Do NOT type `<>` or `[]` 
 * `<` and `>` mark Required Parameters
 * `[` and `]` mark Optional Parameters
 * When running these commands, make sure to mention the BOT and not the ROLE that is auto created when you invite the bot to your server \(click "Invite" on the sidebar to invite the bot\).

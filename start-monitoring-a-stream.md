@@ -11,7 +11,7 @@ description: >-
 In the channel you will want to have notifications sent to, run the following command to ensure the bot has the appropriate permissions. If the bot doesn't respond, you must assign it AT LEAST `Send Messages` permission for the channel before you are able to check the rest of the permissions.
 
 ```text
-@Live Bot#5263 monitor (test/perms)
+@Live Bot#5263 monitor perms
 ```
 
 The bot will either tell you what permissions it is missing or tell you that you are all set. If the bot is missing permissions for that channel, please grant them before proceeding.
@@ -21,7 +21,7 @@ The bot will either tell you what permissions it is missing or tell you that you
 Initiate the setup process by running the following command
 
 ```text
-@Live Bot#5263 monitor (start/edit/add) [stream url]
+@Live Bot#5263 monitor start [stream url]
 ```
 
 ## Step 3
