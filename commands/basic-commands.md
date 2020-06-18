@@ -1,5 +1,8 @@
 # Basic Commands
 
+All of the commands are meant to be after a mention of the bot `@Live Bot#5263`   
+Example: `@Live Bot#5263 help` where `help` is the command here.
+
 ## info
 
 Get very basic information about the bot \(mainly a link to the source code\)
@@ -24,7 +27,7 @@ Returns a link to my Support Discord
 
 ## donate
 
-If you want to help me out, you can do so by running this command for a link on how to do so
+If you want to support me running this bot, you can do so by running this command for a link on how to do so
 
 
 

@@ -1,10 +1,17 @@
 # Monitor Commands
 
-## monitor \(start/edit/add\) \[stream url\]
+All of the commands are meant to be after a mention of the bot `@Live Bot#5263`   
+Example: `@Live Bot#5263 help` where `help` is the command here.
+
+## monitor start \[stream url\]
+
+Aliases: `edit, add`
 
 Start the process of creating/editing a monitor process for a stream
 
-## monitor \(stop/end/remove\) \[stream url\]
+## monitor stop \[stream url\]
+
+Aliases: `end, remove`
 
 Stop monitoring a stream
 
@@ -16,7 +23,9 @@ List all the streams that are being monitored for the Discord Server
 
 See if the bot recognizes a stream as online or offline
 
-## monitor \(test/perms\)
+## monitor perms
+
+Aliases: `test`
 
 Make the bot perform a self check of its permission for the channel the command was run
 
