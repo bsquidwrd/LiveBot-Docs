@@ -9,7 +9,7 @@ Get very basic information about the bot \(mainly a link to the source code\)
 
 ## hello
 
-Get a quick response from the bot. Similar to a `ping`/`pong` command. Good test if the bot has access to send messages
+Get a quick response from the bot. Similar to a `ping`/`pong` command. Good test if the bot has access to `Send Messages`
 
 ## help
 
