@@ -15,6 +15,10 @@ description: Below are the permissions required for the bot to fully work
   * Used for retrieving old messages the bot itself has sent
 * Mention @everyone, @here, and All Roles
   * Mention the role you select during setup \(if any\)
+* Add Reactions
+  * Allows the bot to page through the `help` command and `monitor list` command
+* Use External Emojis
+  * Same as `Add Reactions`
 
 
 
