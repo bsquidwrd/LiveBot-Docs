@@ -16,6 +16,6 @@ Stop monitoring a channel by running the following command
 
 ## Step 2
 
-If you didn't enter a `[stream url]`, the bot will ask you for the link to the stream you wish to start monitoring.  
+If you didn't enter a `[stream url]`, the bot will ask you for the link to the stream you wish to stop monitoring.  
 Example: [https://twitch.tv/bsquidwd](https://twitch.tv/bsquidwd)
 
