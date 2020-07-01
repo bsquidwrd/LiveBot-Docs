@@ -57,7 +57,7 @@ Note: `{role}` will result in nothing if you choose `none` on the next step.
 You're almost there! The last step is choosing a role to ping.  
 This accepts the name of the role to prevent unnecessary/unwanted pings.  
 If you want to ping @everyone simply respond with `everyone` \(without the @\)  
-If you want to not ping a role, you can say `none` and it won't ping anyone
+If you don't want to ping a role, you can respond with `none` and it won't ping anyone
 
 ## Step 7
 
