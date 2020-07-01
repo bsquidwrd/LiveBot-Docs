@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Invite](https://discordapp.com/oauth2/authorize?client_id=334870738257444865&scope=bot&permissions=518208)
+* [Invite](https://discord.com/api/oauth2/authorize?client_id=334870738257444865&permissions=519232&redirect_uri=https%3A%2F%2Fbsquidwrd.gitbook.io%2Flivebot-docs%2Ftutorial-walkthrough%2Fstart-monitoring-a-stream&response_type=code&scope=bot%20identify%20guilds)
 * [Required Permissions](required-permissions.md)
 * [Commands](commands/README.md)
   * [Basic Commands](commands/basic-commands.md)
