@@ -18,7 +18,7 @@ description: >-
 Stop monitoring a channel by running the following command
 
 ```text
-@Live Bot#5263 monitor stop [stream url]
+@Live Bot monitor stop [stream url]
 ```
 
 ## Step 2
