@@ -6,6 +6,13 @@ description: >-
 
 # Stop Monitoring a Stream
 
+## Information
+
+* Do NOT type `<>` or `[]` 
+* `<` and `>` mark Required Parameters
+* `[` and `]` mark Optional Parameters
+* If the bot is online and not responding to your commands, make sure it has `Send Messages` permission in the channel you are running the commands.
+
 ## Step 1
 
 Stop monitoring a channel by running the following command

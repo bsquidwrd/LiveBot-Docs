@@ -6,6 +6,13 @@ description: >-
 
 # Start Monitoring a Stream
 
+## Information
+
+* Do NOT type `<>` or `[]` 
+* `<` and `>` mark Required Parameters
+* `[` and `]` mark Optional Parameters
+* If the bot is online and not responding to your commands, make sure it has `Send Messages` permission in the channel you are running the commands.
+
 ## Step 1
 
 In the channel you will want to have notifications sent to, run the following command to ensure the bot has the appropriate permissions. If the bot doesn't respond, you must assign it AT LEAST `Send Messages` permission for the channel before you are able to check the rest of the permissions.
