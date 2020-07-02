@@ -13,7 +13,7 @@ description: >-
 * `[` and `]` mark Optional Parameters
 * If the bot is online and not responding to your commands, make sure it has `Send Messages` permission in the channel you are running the commands.
 
-## Step 1
+## Step 1 - Check Permissions
 
 In the channel you will want to have notifications sent to, run the following command to ensure the bot has the appropriate permissions. If the bot doesn't respond, you must assign it AT LEAST `Send Messages` permission for the channel before you are able to check the rest of the permissions.
 
@@ -23,7 +23,7 @@ In the channel you will want to have notifications sent to, run the following co
 
 The bot will either tell you what permissions it is missing or tell you that you are all set. If the bot is missing permissions for that channel, please grant them before proceeding.
 
-## Step 2
+## Step 2 - Start Monitoring
 
 Initiate the setup process by running the following command
 
@@ -31,42 +31,43 @@ Initiate the setup process by running the following command
 @Live Bot monitor start [stream url]
 ```
 
-## Step 3
+## Step 3 - Stream URL
 
 If you didn't enter a `[stream url]`, the bot will ask you for the link to the stream you wish to start monitoring.  
 Example: [https://twitch.tv/bsquidwrd](https://twitch.tv/bsquidwrd)
 
-## Step 4
+## Step 4 - Discord Channel to notify
 
 Next up is which channel you wish to send notifications to \(make sure you ran Step 1 in the channel\).  
 Mention the channel \(prefixed with a `#`\), like this `#live`
 
-## Step 5
+## Step 5 - Notification Message
 
 Now you get to customize the message the bot will send when the stream goes live!  
 The below are the parameters available for the notification message.
 
 You do have to type them exactly how you see them \(including the `{}`\) in the message, like `{name}` will get replaced with the Streamers username when the message is sent.
 
-> {role} - Role to ping \(if applicable\)  
-> {name} - Streamers Name  
-> {game} - Game they are playing  
-> {url} - URL to the stream  
-> {title} - Stream Title
+> {role} - Get replaced with the Role to ping \(if applicable\)  
+> {name} - Gets replaced with the Streamers Name  
+> {game} - Gets replaced with the Game they are playing  
+> {url} - Gets replaced with a link to the Stream  
+> {title} - Gets replaced with the Stream Title
 
 If you don't want to type up your own, you can respond with `default` to get the below message  
 `{role} {name} is live and is playing {game}! {url}`
 
 Note: `{role}` will result in nothing if you choose `none` on the next step.
 
-## Step 6
+## Step 6 - Role to ping
 
 You're almost there! The last step is choosing a role to ping.  
 This accepts the name of the role to prevent unnecessary/unwanted pings.  
 If you want to ping @everyone simply respond with `everyone` \(without the @\)  
-If you don't want to ping a role, you can respond with `none` and it won't ping anyone
+If you don't want to ping a role, you can respond with `none` and it won't ping anyone.  
+Even if you answer with a role to ping, if you didn't include the `{role}` variable in the message the bot will not ping anyone
 
-## Step 7
+## Step 7 - Finished
 
 As long as the bot didn't tell you there was an error anywhere, you're good to go!
 
