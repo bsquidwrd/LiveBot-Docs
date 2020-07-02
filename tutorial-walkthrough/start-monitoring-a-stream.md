@@ -54,11 +54,11 @@ Note: `{role}` will result in nothing if you choose `none` on the next step.
 
 ### Parameters
 
-> {role} - Get replaced with the Role to ping \(if applicable\)  
-> {name} - Gets replaced with the Streamers Name  
-> {game} - Gets replaced with the Game they are playing  
-> {url} - Gets replaced with a link to the Stream  
-> {title} - Gets replaced with the Stream Title
+> {role} - Will be replaced with the Role to ping \(if applicable\)  
+> {name} - Will be replaced with the Streamers Name  
+> {game} - Will be replaced with the Game they are playing  
+> {url} - Will be replaced with a link to the Stream  
+> {title} - Will be replaced with the Stream Title
 
 ### Default
 
