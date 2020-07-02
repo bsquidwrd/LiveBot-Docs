@@ -44,9 +44,15 @@ Mention the channel \(prefixed with a `#`\), like this `#live`
 ## Step 5 - Notification Message
 
 Now you get to customize the message the bot will send when the stream goes live!  
-The below are the parameters available for the notification message.
+The available parameters for the notification message are below.  
+  
+These will get replaced by the bot before it sends a message, you DO NOT have to edit them. Simply place them in the message you want to use.  
+  
+You do have to type them exactly how you see them \(including the `{}`\) in the message, like `{name}` will get replaced with the Streamers username when the message is sent.  
+If you don't want to type up your own, you can respond with `default` to get the below message  
+Note: `{role}` will result in nothing if you choose `none` on the next step.
 
-You do have to type them exactly how you see them \(including the `{}`\) in the message, like `{name}` will get replaced with the Streamers username when the message is sent.
+### Parameters
 
 > {role} - Get replaced with the Role to ping \(if applicable\)  
 > {name} - Gets replaced with the Streamers Name  
@@ -54,10 +60,13 @@ You do have to type them exactly how you see them \(including the `{}`\) in the 
 > {url} - Gets replaced with a link to the Stream  
 > {title} - Gets replaced with the Stream Title
 
-If you don't want to type up your own, you can respond with `default` to get the below message  
+### Default
+
 `{role} {name} is live and is playing {game}! {url}`
 
-Note: `{role}` will result in nothing if you choose `none` on the next step.
+### Example
+
+If you typed `Yo {role}, come checkout {name} while they play {game} over at {url}`, that would result in `Yo @LiveSquad, come checkout bsquidwrd while they play Overwatch over at https://twitch.tv/bsquidwrd`
 
 ## Step 6 - Role to ping
 
