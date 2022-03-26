@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-* [Invite](https://livebot.bsquid.io/livebot)
+* [Invite](https://livebot.bsquid.io/invite)
 * [Required Permissions](required-permissions.md)
 * [Commands](commands/README.md)
   * [Basic Commands](commands/basic-commands.md)
