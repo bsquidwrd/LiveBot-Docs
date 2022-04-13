@@ -15,3 +15,7 @@ If you want to support me running this bot, you can do so by running this comman
 ## perm-check
 
 This will run a quick permissions check against the channel it's run in, or the channel you choose&#x20;
+
+## config
+
+This command allows you to designate a role to be given full access to the bot in your server. Good to use when not wanting many people to have "Manage Server" but to still create/delete stream monitors.
