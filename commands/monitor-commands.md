@@ -18,3 +18,7 @@ List all the streams that are being monitored for the Discord Server
 
 See if the bot recognizes a stream as online or offline\
 NOTE: To save resources on the bot, the channel has to be monitored in AT LEAST 1 Discord Server, otherwise this will always return Offline
+
+## monitor role
+
+This will start the bot monitoring a Discord role in your server and post them to where you specify. The message used for this is the server default setup under `/config`

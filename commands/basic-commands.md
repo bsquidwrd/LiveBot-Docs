@@ -18,4 +18,7 @@ This will run a quick permissions check against the channel it's run in, or the 
 
 ## config
 
-This command allows you to designate a role to be given full access to the bot in your server. Good to use when not wanting many people to have "Manage Server" but to still create/delete stream monitors.
+This command allows you to configure some server wide settings
+
+* `admin-role`: This command allows you to designate a role to be given full access to the bot in your server
+* `default-live-message`: This will be the message newly created notifications will utilize

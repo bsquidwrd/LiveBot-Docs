@@ -21,7 +21,7 @@ The bot will either tell you what permissions it is missing or tell you that you
 Create the stream monitor by running the following command, but replace the values as you need
 
 ```
-/monitor create profile-url:https://twitch.tv/bsquidwrd where-to-post:#live role-to-mention:@everyone
+/monitor create profile-url:https://twitch.tv/bsquidwrd where-to-post:#live
 ```
 
 ## Step 3 - Notification Message
