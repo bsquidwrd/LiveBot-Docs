@@ -1,12 +1,12 @@
 # Basic Commands
 
-## source
+## source-code
 
 Get a link to the GitHub Repository where the code is hosted
 
-## support
+## help
 
-Returns a link to my Support Discord
+Returns a link to the Support Discord
 
 ## tip
 
@@ -20,5 +20,4 @@ This will run a quick permissions check against the channel it's run in, or the 
 
 This command allows you to configure some server wide settings
 
-* `admin-role`: This command allows you to designate a role to be given full access to the bot in your server
 * `default-live-message`: This will be the message newly created notifications will utilize

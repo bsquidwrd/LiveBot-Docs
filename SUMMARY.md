@@ -6,6 +6,7 @@
 * [Commands](commands/README.md)
   * [Basic Commands](commands/basic-commands.md)
   * [Monitor Commands](commands/monitor-commands.md)
+* [FAQ](faq.md)
 
 ## Tutorial/Walkthrough
 

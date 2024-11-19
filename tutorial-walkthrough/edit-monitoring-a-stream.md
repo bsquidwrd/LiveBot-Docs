@@ -13,5 +13,3 @@ You can edit any part of the monitor at any time by simply running the following
 ```
 /monitor edit
 ```
-
-Note: If you'd like to stop pinging a role, choose `remove-role-ping` and set it to `True`
