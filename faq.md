@@ -33,4 +33,4 @@
 
 ## Still having issues?
 
-Please join the [Live Bot support server](https://livebot.bsquid.io/invite) and post your question in #help.
+Please join the [Live Bot support server](https://livebot.bsquid.io/support) and post your question in #help.
